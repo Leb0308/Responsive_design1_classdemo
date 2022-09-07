@@ -1,3 +1,12 @@
+body{
+    background-color: lightblue;
+}
+
 h1{
     color: yellow;
+}
+
+p{
+    color: #F31818;
+    font-family: Arial, Helvetica, sans-serif;
 }
